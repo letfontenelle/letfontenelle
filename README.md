@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">✨ Transforming data since 2023<br>📚 I'm currently learning ML 🤖<br>📩 Feel free to have a talk! <br>→ leticiafc@proton.me</p>
+<p align="left">✨ Transforming data since 2023<br>📚 I'm currently learning ML 🤖<br>📩 Feel free to reach out! <br>→ leticiafc@proton.me</p>
 
 ###
