@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Letícia and I'm a Data Engineer, from Brazil 🇧🇷</p>
+<p align="left">I'm Letícia, a creator and Data Engineer from Brazil 🇧🇷</p>
 
 ###
 
@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">✨ Transforming data since 2023<br>📚 I'm currently learning ML 🤖<br>📩 Feel free to reach out! <br>→ leticiafc@proton.me</p>
+<p align="left">✨ Transforming data since 2023<br>📚 I'm currently running <a ref="https://chagas.app">Chagas.AI<a>🤖, the first AI made for brazillian med students.<br>📩 Feel free to reach out! <br>→ leticiafc@proton.me</p>
 
 ###
