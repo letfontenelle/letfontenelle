@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">✨ Transforming data since 2023<br>📚 I'm currently running Chagas.AI (https://chagas.app) 🤖, the first AI made for brazillian med students.<br>📩 Feel free to reach out! <br>→ leticiafc@proton.me</p>
+<p align="left">✨ Transforming data since 2023<br>📚 I'm currently running Chagas.AI (https://chagas.app) 🤖, the first AI made for brazillian med students.<br>📩 Feel free to reach out! <br>→letcia@chagas.app</p>
 
 ###
