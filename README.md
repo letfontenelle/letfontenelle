@@ -1,2 +1,2 @@
 Founder @chagas.ai
-Minding your own business
+<> Minding your own business
